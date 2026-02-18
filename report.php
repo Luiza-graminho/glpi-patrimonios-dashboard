@@ -171,7 +171,7 @@ $dados_pagina = array_slice($result_final, $inicio, $por_pagina);
 
     <!-- Header -->
     <header class="bg-green-700 w-full flex justify-end items-center h-10 sm:h-16 px-4 sm:px-8">
-        <img alt="logo" src="logo_saur_b.svg" class="h-4 sm:h-10 object-contain">
+        <img alt="logo" src="assets/logo_saur_b.svg" class="h-4 sm:h-10 object-contain">
     </header>
 
     <main class="w-full px-6 py-8 flex justify-center">
